@@ -1,6 +1,6 @@
 # GitHub-ContributionsGraph-Generator
 
-A Python tool that generates GitHub-style contribution graphs from CSV data. This tool creates visualizations similar to the contribution activity graph shown on GitHub profiles.
+A Python tool that generates GitHub-style contribution graphs from CSV data. This tool creates visualisations similar to the contribution activity graph shown on GitHub profiles.
 
 ## Features
 
@@ -45,7 +45,7 @@ pip install matplotlib numpy
 
 3. The script will generate a `contribution_graph.jpg` file in the same directory.
 
-## Customization
+## Customisation
 
 You can modify the script to:
 - Change output format or resolution
@@ -55,7 +55,7 @@ You can modify the script to:
 ## Example Output
 
 ![GitHub Contribution Graph](contribution_graph.jpg)
-The generated graph will show your contribution activity with varying shades of green based on the frequency of contributions, similar to GitHub's own visualization.
+The generated graph will show your contribution activity with varying shades of green based on the frequency of contributions, similar to GitHub's own visualisation.
 
 ## License
 
@@ -63,4 +63,4 @@ MIT License
 
 ## Acknowledgments
 
-Inspired by GitHub's contribution graph visualization.
+Inspired by GitHub's contribution graph visualisation.
